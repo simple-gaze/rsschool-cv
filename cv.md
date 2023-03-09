@@ -31,3 +31,9 @@
 
 * ## ***Projects:*** 
     project [Travel](https://github.com/simple-gaze/template-Travel) (layout and some js)
+
+* ## ***Education:*** 
+    Kazan State Power Engineering University, applied informatics in economics
+
+* ## ***English language:*** 
+    A2
